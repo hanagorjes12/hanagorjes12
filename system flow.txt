@@ -1,0 +1,27 @@
+LANDLORD
+-SEND MAIL NOTIFICATION-nak mintak buat boleh retrive sendiri email landlord and then pilih nak antar kat tenant mana
+-lepas tekan SEND noty naik kat tenant part
+-REPORT tak jadi lagi- nak mintak generate data yang dlm table tu
+
+
+TENANT
+-buang dashboard
+-buang tenant rent and payment
+-tenant rented house-mintak generate details rumah yang dah sewa
+buang monthly payment punya column
+-receive notication of email(pay monthly payment)
+
+
+
+SYSTEM FLOW
+tenant click book now -will ask info
+then  tenant sent quotation to landlord
+landlord  receive quotation 
+lanlord click done for quotation
+then landlord create  tenant
+landlord upload tenancy agreement
+tenant receive tenancy aggrement
+tenant reupload tenancy agreement
+landlord update house status
+landlord update payment date
+tenant receive monthly payment noty

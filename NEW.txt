@@ -1,0 +1,41 @@
+admin login is 
+Username : Admin
+Password : 12345
+
+LANDLORD
+LYLY
+Lyly@gmail.com
+0199293789
+1234
+use house Grand Medini
+address: Lebuh Medini Off Medini Iskandar, Medini, Iskandar Puteri, Johor
+des: Grand Medini
+Grand Medini comprises of three blocks of exclusive condos with heights between 30 and 33 storeys. Altogether, there will be 672 units of either studio room or condo; 1 bedroom, 2 bedrooms and even 3 bedrooms. The built-up of the units will be separated into Type A to Type F, ranging from 474 sf to 1,119 sf, whereby Type F (1,119sf) will be dual-keys units.
+Please alert that your monthly payment is jus around the corner!! 
+
+TENANT
+AMIRAH
+Amirah@gmail.com
+10112321245
+1234
+
+
+
+najwa/1234-5 rumah
+amalin/123- 4 rumah
+umi/1234-5 rumah
+nabila/1234- 5 rumah
+syazmira/1234- 2 rumah
+
+
+
+
+
+contribution
+-From this information system landlord will find out renter easily for their houses and they will be receiving monthly payment from tenant as fix for every month.
+-Tenant can browse and rent house easily and the filtration future would help tenant search house base on their budgets.
+
+
+limitation
+-The system was created solely with localhost PHPMyAdmin, which is inaccessible unless the user installs the Xampp software. Another limitation of the system is that it was designed to be viewed on a desktop computer.
+-Last but not least, the system cannot accept an online payment on the spot because the tenant will need to see the realistic house condition before renting the house.
